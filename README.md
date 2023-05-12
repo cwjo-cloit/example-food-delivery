@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/a61cf236-65fe-41dd-857c-3c8bbeee2387)
+
+
 
 # 예제 - 음식배달
 
