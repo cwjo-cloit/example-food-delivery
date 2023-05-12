@@ -4,17 +4,17 @@
 
 2. Saga (Pub / Sub)  
 
-front에 주문요청
+front에 주문요청  
 ![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/84793140-97d5-4a7a-afa6-7a070ddc79e8)
 
-kafka 메시지
-![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/54698db3-f9d9-4e7d-add9-5998fe3d6e54)
+kafka 메시지  
+![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/d046c8ed-5d5e-4bae-bfdf-04b3b7be65a5)
 
-store에 주문현황
+store에 주문현황  
 ![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/61eb3bb8-912b-417f-93b1-e288e708fb99)
 
 3. CQRS
-내 주문 현황
+내 주문 현황  
 ![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/875b49e1-1bdb-4172-a49c-d147e96076ee)
 
 
