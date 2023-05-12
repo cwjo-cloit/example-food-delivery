@@ -2,7 +2,8 @@
 1. EventStorming Model : Design Level
 ![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/a61cf236-65fe-41dd-857c-3c8bbeee2387)
 
-2. Saga (Pub / Sub)
+2. Saga (Pub / Sub)  
+
 front에 주문요청
 ![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/84793140-97d5-4a7a-afa6-7a070ddc79e8)
 
