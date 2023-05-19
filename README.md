@@ -1,23 +1,13 @@
 
+
+
 1. EventStorming Model : Design Level
-![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/a61cf236-65fe-41dd-857c-3c8bbeee2387)
+![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/3e88151c-f658-4c28-831a-9f9acd138e68)
 
 2. Saga (Pub / Sub)  
-
-front에 주문요청  
-![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/84793140-97d5-4a7a-afa6-7a070ddc79e8)
-
-kafka 메시지  
-![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/d046c8ed-5d5e-4bae-bfdf-04b3b7be65a5)
-
-store에 주문현황  
-![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/61eb3bb8-912b-417f-93b1-e288e708fb99)
-
-3. CQRS
-내 주문 현황  
-![image](https://github.com/cwjo-cloit/example-food-delivery/assets/121848898/875b49e1-1bdb-4172-a49c-d147e96076ee)
-
-
+3. Service Router 설치
+![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/148040c7-afd2-4afd-b02c-28ba96456f61)
+4. Zero downtime Deployment
 
 
 # 예제 - 음식배달
