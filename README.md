@@ -5,13 +5,13 @@
 ![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/3e88151c-f658-4c28-831a-9f9acd138e68)
 
 2. Saga (Pub / Sub)  
-![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/31e43748-a727-4d94-b942-de1a00a7f81d)
+![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/31e43748-a727-4d94-b942-de1a00a7f81d)  
 에러가 나는데 해결을 못하겠습니다. ㅠ.ㅠ
 
 3. Service Router 설치
-![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/148040c7-afd2-4afd-b02c-28ba96456f61)
+![image](https://github.com/cwjo-cloit/dalminEKS0517/assets/121848898/148040c7-afd2-4afd-b02c-28ba96456f61)  
 
-4. Zero downtime Deployment
+4. Zero downtime Deployment  
 Seige Pod 까지 구성했는데 2번이 않되서 4번도 못했습니다.
 
 
